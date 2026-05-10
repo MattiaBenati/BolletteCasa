@@ -250,6 +250,3 @@ The exported PDF files are saved on the Desktop with timestamped file names:
 - `bolletta_acqua_YYYYMMDD_HHMMSS.pdf`
 
 Each PDF contains the calculated amount for the ground floor and first floor, the input values used, the calculation steps, and the final verification.
-
-https://github.com/user-attachments/assets/e3175bbd-e76b-4a48-81d1-e22e38fe3e1f
-
